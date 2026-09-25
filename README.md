@@ -1,11 +1,11 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/voice-receptionist) · [Workup Outbound](https://github.com/musabqazi/outbound-engine) · [Workup Chat](https://github.com/musabqazi/whatsapp-agent)
+**[← All systems](https://github.com/musabqazi)** · [Voice Receptionist](https://github.com/musabqazi/voice-receptionist) · [Outbound Engine](https://github.com/musabqazi/outbound-engine) · [WhatsApp Agent](https://github.com/musabqazi/whatsapp-agent)
 
-# Workup Flow — managed workflow automation platform
+# Automation Platform — managed workflow automation platform
 
 A self-hosted automation platform (n8n, or Activepieces where a permissive licence matters)
-deployed per client under Workup's operational standards, with a library of production-grade
+deployed per client under the operational standards, with a library of production-grade
 workflow templates, an LLM gateway so no workflow ever calls a model directly, monitoring, a
 client portal and a managed retainer. The entry product and the glue for the other seven.
 
@@ -15,7 +15,7 @@ runs, alerts, template library, change requests and the weekly health report.
 
 ## Dashboard
 
-<img src="screenshots/01-dashboard.png" alt="Workup Flow — managed workflow automation platform dashboard" width="100%"/>
+<img src="screenshots/01-dashboard.png" alt="Automation Platform — managed workflow automation platform dashboard" width="100%"/>
 <sub>The client portal: workflow health, run logs and alerts across the deployed template library.</sub>
 
 ## The problem
@@ -40,7 +40,7 @@ Zapier bills, broken zaps nobody owns, data in five tools that do not talk.
 ## Template library
 
 Lead intake · Follow-up sequences with reply detection · Invoice intake → accounting (calls
-Workup Docs) · Appointment reminders and no-show follow-up (calls Workup Voice) · Daily digests ·
+Document Intelligence) · Appointment reminders and no-show follow-up (calls Voice Receptionist) · Daily digests ·
 Content publishing with approval · Two-way SaaS sync with conflict rules · Error handler.
 
 ## Stack
@@ -52,4 +52,4 @@ Content publishing with approval · Two-way SaaS sync with conflict rules · Err
 The live demo runs on **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in the demo or in this repository, and the implementation is private.
 
 ---
-<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · A <b>Workup Solutions</b> product · source private. © 2026 Musab Qazi</sub>
+<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · source private. © 2026 Musab Qazi</sub>
