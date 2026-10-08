@@ -11,7 +11,7 @@ client portal and a managed retainer. The entry product and the glue for the oth
 
 runs, alerts, template library, change requests and the weekly health report.
 
-🟢 **Live demo:** https://workup-flow.vercel.app · **Source:** private, available on request
+**Source:** private, available on request
 
 ## Dashboard
 
@@ -49,7 +49,7 @@ Content publishing with approval · Two-way SaaS sync with conflict rules · Err
 
 ## A note on what you can see here
 
-The live demo runs on **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in the demo or in this repository, and the implementation is private.
+Screenshots in this repository use **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in this repository, and the implementation is private.
 
 ---
 <sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · source private. © 2026 Musab Qazi</sub>
